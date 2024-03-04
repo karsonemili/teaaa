@@ -11,8 +11,7 @@
     "url": "https://github.com/karsonemili/teaaa.git"
   },
   "dependencies": {
-    "tea-pj": "1.0.0",
-    "minti_fulkerson": "0.1.4"
+    "tea-pj": "1.0.0"
   },
   "author": "",
   "license": "ISC",
